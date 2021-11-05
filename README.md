@@ -147,4 +147,8 @@ I am a Bioinformatics Intern at ICIPE
 
 A die hard Arsenal fan!
 
+## Audrey Oronda
+BOSS workshop
+Excited to learn Bioinformatics
+
 
